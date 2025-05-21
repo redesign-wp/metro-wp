@@ -1,2 +1,3 @@
-# metro-wp
-Metro got back to WordPress. 
+# METRO WORDPRESS [THEME]
+
+---
